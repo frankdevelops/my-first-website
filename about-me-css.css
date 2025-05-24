@@ -1,0 +1,22 @@
+/* About Me CSS */
+		
+	h1 {color: blue; font-size: 200px; text-align: center; border-style: solid; border-width: 8px; border; margin-top: 25px; margin-bottom: 35px; margin-left: 275px; margin-right: 275px}
+		
+	nav {text-align: center}
+		
+	body {font-family: "Shadows Into Light", cursive; background-color: white}
+
+	a {color: red; font-size: 35px}
+		 
+	img {display: block; margin: auto; width: 50%; width: 728px; height: 408px}
+		
+	ul {color: black; font-size: 35px; text-align: center}
+		
+	p {color: blue; font-size: 35px; text-align: center}
+	
+	#bold {font-weight: bold; color: black}
+	
+	#nobullets {list-style-type: none}
+	
+	#listcircle {list-style-type: circle; list-style-position: inside}
+		
